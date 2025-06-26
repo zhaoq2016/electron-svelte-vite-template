@@ -2,7 +2,7 @@ this is an electron , svelteKit and vite starter template
 using npm and with Typescript.
 
 
-how comes:
+steps:
 
 1. create the electron app using official Electron Forge 
     npx create-electron-app@latest app name --template=vite-typescript
