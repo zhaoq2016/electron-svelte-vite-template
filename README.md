@@ -1,6 +1,6 @@
 this is an electron , svelteKit and vite starter template 
 using npm and with Typescript.
-
+for REAL electron app , you can use electron-vite  https://electron-vite.org 
 
 steps:
 
